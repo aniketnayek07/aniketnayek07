@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Nayek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](aniketnayek07.github.io/Portfolio/)
+- 🔭 I’m currently working on [My Portfolio](https://aniketnayek07.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **React.js**
 
